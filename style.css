@@ -1,0 +1,125 @@
+body{
+    background-color:#f3e9dc ;
+}
+
+.navbar, .nav-link, .dropdown-menu {
+    font-family: 'Raleway', sans-serif;
+    font-stretch: expanded;
+}
+
+.dropdown-menu {
+    background-color: #f3e9dc; 
+}
+
+.form-control {
+    background-color: #f3e9dc;
+}
+
+.carousel-inner .carousel-item img {
+    height: 580px; 
+}
+
+
+.carousel-caption .display-5 {
+    font-family: 'Libre Baskerville', serif ; 
+}
+
+.form-select.custom-select {
+    background-color: #f3e9dc;
+    font-family: 'Roboto Slab', serif;
+}
+.custom-font-large {
+    font-family: 'Libre Baskerville', serif;
+}
+
+
+.bg-custom {
+    background-color: #f3e9dc;
+}
+
+
+.custom-card-body {
+    background-color: #f5efe8;
+    font-family: 'Merienda';
+}
+
+
+.custom-btn-width {
+    width: 35%;
+}
+
+
+.custom-font-welcome,
+.custom-font-blissbond {
+    font-family: 'Cinzel Decorative', serif;
+}
+
+
+.custom-font-welcome {
+    color: #66451c;
+    font-size: 58px;
+    font-weight: 700;
+    padding-bottom: 10px;
+    line-height: 44px;
+}
+
+.custom-font-blissbond {
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 78px;
+    color: #e5026b;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.custom-welcome-paragraph{
+    font-family:'Poppins', sans-serif;
+    color: #66451c;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 25px;
+}
+
+.custom-welcome-link{
+    text-decoration: none;
+    color: #e5026b;
+}
+
+.custom-count-body{
+    font-family: 'Libre Baskerville', sans-serif;
+    color: #66451c;
+    background-color: #f5efe8;
+}
+
+.custom-footer-container{
+    background-color: #b9c6cf;
+    margin-top: 25px;
+    color: #415764;
+
+}
+
+.custom-footer-body,.custom-footer-body a{
+    background-color: #b9c6cf;
+    color: #415764;
+}
+
+.footer-card{
+    border: none;
+}
+
+.custom-profile-title{
+    font-family: 'Arvo', sans-serif;
+    font-weight: 200;
+}
+
+.custom-profile-body{
+    background-color:#faf6ef;
+}
+
+#profile-header{
+font-family: 'Playfair Display',sans-serif;
+font-stretch: expanded;
+}
